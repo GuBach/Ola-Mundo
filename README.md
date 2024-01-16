@@ -1,3 +1,3 @@
 # Olá, Mundo!
-    Repositório para o curso básico de GitHub
-    
+    Repositório para o curso básico de GitHub!
+
